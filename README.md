@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="500" height="500" src="https://github.com/thaalish/tsfl-euros/assets/85063798/e032066b-8817-4a8e-af05-c724014335f2">
+  <img width="500" height="500" src="https://github.com/thaalish/tsfl-euros/assets/85063798/b7baa87d-08a2-4565-8d25-364ba82c75b4">
 </p>
+
 
 # TSFL - EUROS (2019)
 
