@@ -1,9 +1,8 @@
 <p align="center">
   <img width="500" height="500" src="https://github.com/thaalish/tsfl-euros/assets/85063798/e032066b-8817-4a8e-af05-c724014335f2">
+  Thalish Saka Football League • Est. 2017
   <h1>TSFL - EUROS (2019)</h1>
 </p>
-
-Thalish Saka Football League • Est. 2017
 
 Inspired by the football franchise created by TAYFUN7, TSFL is a re-creation of TPS which is fueled by the community. We have created a enjoyable experience where players can play a close representation of the beautiful game which is football.
 
