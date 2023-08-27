@@ -8,11 +8,9 @@
 Welcome to the official GitHub repository for the TSFL - Euros, a historic event hosted by TSFL in 2019. Please note that the tournament has already concluded, and this repository serves as a tribute to a remarkable chapter in TSFL's history.
 
 <h3 align="center">TSFL Background</h3>
-<p align="center">*Thalish Saka Football League • Est. 2017*</p>
+<p align="center"><em>Thalish Saka Football League • Est. 2017<\em></p>
 
-Inspired by the football franchise created by TAYFUN7, TSFL is a re-creation of TPS which is fueled by the community. 
-
-We have created a enjoyable experience where players can play a close representation of the beautiful game which is football.
+Inspired by the football franchise created by TAYFUN7, TSFL is a re-creation of TPS which is fueled by the community. We have created a enjoyable experience where players can play a close representation of the beautiful game which is football. 
 
 TSFL was originally created as a way for players to compete in a league/tournament format. Since then it has evolved to be more than that. You can read more about this via our socials.
 
