@@ -11,3 +11,8 @@ TSFL was originally created as a way for players to compete in a league/tourname
 
 ## Description
 Welcome to the official GitHub repository for the TSFL - Euros, a historic event hosted by TSFL in 2019. Please note that the tournament has already concluded, and this repository serves as a tribute to a remarkable chapter in TSFL's history.
+
+## Key Notes
+- Minor modifications have been done to remove patented or copyrighted work.
+- There won't be any provided animations for new tools; instead, you can use your own animations to replace them.
+- It might not exactly match what was published in 2019. The reason is because Roblox's engine has undergone numerous changes, so you would need to make your own adjustments to get it to function more or less how you are accustomed to *(this is for players that took part in the tournament or played the game during that time)*.
