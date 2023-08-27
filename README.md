@@ -9,6 +9,7 @@ Welcome to the official GitHub repository for the TSFL - Euros, a historic event
 
 <h3 align="center">TSFL Background</h3>
 Inspired by the football franchise created by TAYFUN7, TSFL is a re-creation of TPS which is fueled by the community. 
+
 We have created a enjoyable experience where players can play a close representation of the beautiful game which is football.
 
 TSFL was originally created as a way for players to compete in a league/tournament format. Since then it has evolved to be more than that. You can read more about this via our socials.
