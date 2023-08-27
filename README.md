@@ -1,3 +1,3 @@
-![TSFL_fixed_without_background (3)](https://github.com/thaalish/tsfl-euros/assets/85063798/1315c49c-ee96-453c-8213-c99fad7474c5)
+![TSFL_Logo](https://github.com/thaalish/tsfl-euros/assets/85063798/e032066b-8817-4a8e-af05-c724014335f2)
 
 # TSFL - EUROS (2019)
